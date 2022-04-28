@@ -16,7 +16,7 @@
 
 ## 📝 Table of Contents
 
-- [Data Preparation](#Prerequisites)
+- [Data Preparation](#Data_Preparation)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
@@ -26,7 +26,7 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 Data Preparation <a name = "Prerequisites"></a>
+## 🧐 Data Preparation <a name = "Data_Preparation"></a>
 This project I assumed you had to set up OSIsofi PI system was organized in your company So I will focus at interface data 
 <ul>
 
@@ -36,7 +36,7 @@ This project I assumed you had to set up OSIsofi PI system was organized in your
  
   <a target="_blank" href="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Connect%20PLC%20Siemens%20to%20Kepware/Slide1.PNG">
   </a>
-  <ul><li><a href="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Connect%20PLC%20Siemens%20to%20Kepware/Slide1.PNG">PLC Siemens to Kepware </a> </li></ul>
+  <ul><li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/PLC-Simen.md">PLC Siemens to Kepware </a> </li></ul>
 
  
 <li>SQL</li>
