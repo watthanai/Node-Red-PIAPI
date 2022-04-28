@@ -1,4 +1,11 @@
-
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+</style>
 <p align="center">
   <a href="" rel="noopener">
  <img width=150px height=100px src="https://vectorlogoseek.com/wp-content/uploads/2020/03/osisoft-vector-logo.png" alt="Project logo"></a>
