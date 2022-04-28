@@ -5,10 +5,10 @@
 </p>
 <div align="left">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Status](https://img.shields.io/badge/status-active-success.svg)]() 
 
-<h3 align="left">Osisoft PI API :</h3>
-<p align= "left">This project use module <b style="color:red">node-red-contrib-osisoft-web-api </b><br>it possible for you to create your own data-flow application with write data and query data an existing PI System in a few hours.</p>
+<h3 align="left">Intorducing projects :</h3>
+<p align= "left">This project aim to tutorial manage your operation data platform  both OPC server and a database (SQL) to transmit data in PI System .In addition it has another choses to use <b style="color:red">node-red-contrib-osisoft-web-api. </b><br>it possible for you to create your own data-flow application with write data and query data an existing PI System in a few hours.  </p>
 
 
 ---
@@ -36,17 +36,20 @@ This project I assumed you had to set up Kepware and SQL express was organized i
 <ul>
 
 <li><b style="color:rgb(46, 204, 113)">Kepware : </b> <br>This Paragraph describes how to configure a PLC with Ethernet module and other OPC on the Local Ethernet network.</li>
- <b><br>Setting</b>
- 
+ <b><br>Configure kepserver</b>
   <a target="_blank" href="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Connect%20PLC%20Siemens%20to%20Kepware/Slide1.PNG">
   </a>
   <ul><li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/PLC-Simen.md">PLC Siemens to Kepware </a> </li>
   <li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/PLC-Mitsubishi.md">PLC Mitsubishi to Kepware</a></li>
   <li><a href="">OPC to Kepware</a></li>
-  </ul><br>
+  </ul>
+  <b><br>Data Logger</b>
+  <p>After you have done configure kepserver. May be you want to have an application that logs data from an OPC server to any ODBC-compliant database </p> 
 
- 
-<li>SQL</li>
+  <p align="center">
+ <img  width=400px height=350px src="https://www.kepware.com/getmedia/9c8c0143-202f-4937-a2b0-bbda1590215c/datalogger"><br></p> 
+
+<li><b style="color:rgb(46, 204, 113)">SQL : </b> <br>This Paragraph describes how to configure a PLC with Ethernet module and other OPC on the Local Ethernet network.</li>
 </ul>
 
 ## 🏁 Getting Started <a name = "getting_started"></a>

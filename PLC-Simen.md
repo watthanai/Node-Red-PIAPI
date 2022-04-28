@@ -1,5 +1,5 @@
 ```javascript
- !! Please follow This guidline !!
+ !! It will take you through the following steps: !!
 ```
 
 
