@@ -1,8 +1,3 @@
-<style>
-div.Topic {
-  text-align: center;
-}
-</style>
 
 <p align="center">
   <a href="" rel="noopener">
@@ -11,10 +6,10 @@ div.Topic {
 <div align="left">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-<div class="Topic">
+
 <h3 align="left">Osisoft PI API :</h3>
 <p align= "left">This project use module <b style="color:red">node-red-contrib-osisoft-web-api </b><br>it possible for you to create your own data-flow application with write data and query data an existing PI System in a few hours.</p>
-</div>  
+
 
 ---
 
@@ -35,8 +30,9 @@ div.Topic {
 This project I assumed you had to set up OSIsofi PI system was organized in your company So I will focus at interface data 
 <ul>
 
-<li>Kepware</li>
- <img width=100px height=60px src="https://findvectorlogo.com/wp-content/uploads/2019/04/kepware-vector-logo.png">
+<li><b style="color:rgb(46, 204, 113)">Kepware : </b> <br>This Paragraph describes how to configure a PLC with Ethernet module and other OPC on the Local Ethernet network.</li>
+ <img align= "center" width=300px height=350px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Architecture-Kepware.PNG?token=GHSAT0AAAAAABTUUZXDPOL7S52PMAFOQLY2YTKHMLQ"><br>
+ <b><br>Setting<b/>
 <li>SQL</li>
 </ul>
 
