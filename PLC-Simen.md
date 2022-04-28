@@ -11,8 +11,8 @@ let RED = require("node-red");
 Step | Description
 -------|-------
 [ 01 <img align= "center" width=200px height=100px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Connect%20PLC%20Siemens%20to%20Kepware/Slide1.PNG">](https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Connect%20PLC%20Siemens%20to%20Kepware/Slide1.PNG) | Right click at connectivity then select New Channel
-[@node-red/editor-api](@node-red_editor-api.html) | an Express application that serves the Node-RED editor and provides the Admin HTTP API
-[@node-red/runtime](@node-red_runtime.html) | the core runtime of Node-RED
+[ 02 <img align= "center" width=200px height=100px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Connect%20PLC%20Siemens%20to%20Kepware/Slide2.PNG">](https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Connect%20PLC%20Siemens%20to%20Kepware/Slide2.PNG) | Select the channel to Siemens TCP/IP Ethernet
+[03 <img align= "center" width=200px height=100px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Connect%20PLC%20Siemens%20to%20Kepware/Slide3.PNG">](https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Connect%20PLC%20Siemens%20to%20Kepware/Slide3.PNG) |  Fill a name of channel
 [@node-red/util](@node-red_util.html) | common utilities for the Node-RED runtime and editor modules
 [@node-red/registry](@node-red_registry.html) | the internal node registry
 @node-red/nodes | the default set of core nodes. This module only contains the Node-RED nodes - it does not expose any APIs.
