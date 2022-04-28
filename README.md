@@ -32,6 +32,7 @@ This project I assumed you had to set up OSIsofi PI system was organized in your
 
 <li><b style="color:rgb(46, 204, 113)">Kepware : </b> <br>This Paragraph describes how to configure a PLC with Ethernet module and other OPC on the Local Ethernet network.</li>
  <img align= "center" width=300px height=350px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Architecture-Kepware.PNG?token=GHSAT0AAAAAABTUUZXDPOL7S52PMAFOQLY2YTKHMLQ"><br>
+
  <b><br>Setting</b>
  
   <a target="_blank" href="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Connect%20PLC%20Siemens%20to%20Kepware/Slide1.PNG">
