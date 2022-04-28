@@ -16,8 +16,8 @@
 
 ## 📝 Table of Contents
 
-- [Data Preparation](#Data_Preparation)
-- [Getting Started](#getting_started)
+- [Data Source](#Data_Source)
+- [PI Interfaces](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
@@ -26,20 +26,24 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 Data Preparation <a name = "Data_Preparation"></a>
-This project I assumed you had to set up OSIsofi PI system was organized in your company So I will focus at interface data 
+## 🧐 Data Source <a name = "Data_Source"></a>
+This project I assumed you had to set up Kepware and SQL express was organized in your company So I will focus at data preparation.
+
+<p align="center">
+ <img  width=300px height=350px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Architecture-Kepware.PNG?token=GHSAT0AAAAAABTUUZXDPOL7S52PMAFOQLY2YTKHMLQ"><br></p>
+
+
 <ul>
 
 <li><b style="color:rgb(46, 204, 113)">Kepware : </b> <br>This Paragraph describes how to configure a PLC with Ethernet module and other OPC on the Local Ethernet network.</li>
- <img align= "center" width=300px height=350px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Architecture-Kepware.PNG?token=GHSAT0AAAAAABTUUZXDPOL7S52PMAFOQLY2YTKHMLQ"><br>
-
  <b><br>Setting</b>
  
   <a target="_blank" href="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Connect%20PLC%20Siemens%20to%20Kepware/Slide1.PNG">
   </a>
   <ul><li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/PLC-Simen.md">PLC Siemens to Kepware </a> </li>
-  <li><a href="">PLC Mitsubishi to Kepware</li>
-  </ul>
+  <li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/PLC-Mitsubishi.md">PLC Mitsubishi to Kepware</a></li>
+  <li><a href="">OPC to Kepware</a></li>
+  </ul><br>
 
  
 <li>SQL</li>
