@@ -1,14 +1,16 @@
 
 <p align="center">
-  <a href="" rel="noopener">
- <img width=150px height=100px src="https://vectorlogoseek.com/wp-content/uploads/2020/03/osisoft-vector-logo.png" alt="Project logo"></a>
+
+ <img width=150px height=100px src="https://vectorlogoseek.com/wp-content/uploads/2020/03/osisoft-vector-logo.png" alt="Project logo">
+  <img width=150px height=100px src="https://mma.prnewswire.com/media/476379/kepware_technologies_logo.jpg?p=facebook" alt="Project logo">
+   <img width=150px height=100px src="https://cdn.xingosoftware.com/elektor/images/fetch/dpr_1/https%3A%2F%2Fwww.elektormagazine.com%2Fassets%2Fupload%2Fimages%2F42%2F20200612144414_Node-Red-official-logo.png" alt="Project logo">
 </p>
-<div align="left">
+
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
 
 <h3 align="left">Intorducing projects :</h3>
-<p align= "left">This project aim to tutorial manage your operation data platform  both OPC server and a database (SQL) to transmit data in PI System .In addition it has another choses to use <b style="color:red">node-red-contrib-osisoft-web-api. </b><br>it possible for you to create your own data-flow application with write data and query data an existing PI System in a few hours.  </p>
+<p align= "left">This project aim to tutorial manage your operation data platform  both OPC server and a database (SQL) to transmit data in PI System .In addition it has another choses to use <b style="color:red">node-red-contrib-osisoft-web-api. </b>it possible for you to create your own data-flow application with write data and query data an existing PI System in a few hours.  </p>
 
 
 ---
@@ -47,7 +49,11 @@ This project I assumed you had to set up Kepware and SQL express was organized i
   <p>After you have done configure kepserver. May be you want to have an application that logs data from an OPC server to any ODBC-compliant database </p> 
 
   <p align="center">
- <img  width=400px height=350px src="https://www.kepware.com/getmedia/9c8c0143-202f-4937-a2b0-bbda1590215c/datalogger"><br></p> 
+ <img  width=400px height=350px src="https://www.kepware.com/getmedia/9c8c0143-202f-4937-a2b0-bbda1590215c/datalogger"><br></p>
+ <b><br>Configure Dataloger</b> 
+   <ul><li><a href="">Open port SQL Workstaion </a> </li>
+  <li><a href="">Config Module logger</a></li>
+  </ul><br>
 
 <li><b style="color:rgb(46, 204, 113)">SQL : </b> <br>This Paragraph describes how to configure a PLC with Ethernet module and other OPC on the Local Ethernet network.</li>
 </ul>
