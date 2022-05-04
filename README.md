@@ -19,7 +19,7 @@
 ## 📝 Table of Contents
 
 - [Data Source](#Data_Source)
-- [Setup PI Interface](#getting_started)
+- [Setup PI Interface](#PIsetup)
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
@@ -58,17 +58,18 @@ This project I assumed you had to set up Kepware and SQL express was organized i
 <li><b style="color:rgb(46, 204, 113)">SQL : </b> <br>This Paragraph describes how to configure a PLC with Ethernet module and other OPC on the Local Ethernet network.</li>
 </ul>
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## 🏁 SETUP PI SYSTEM <a name = "PIsetup"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+The PI system enables digital transformation through trusted, high-quality operations data. Collect, enhance, and deliver data in real time in  any location. [How the PI System works ? ](#PIsystem) 
 
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
+### How the PI System works ?
+<p align="center">
+ <img  width=300px height=350px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Architecture-Kepware.PNG?token=GHSAT0AAAAAABTUUZXDPOL7S52PMAFOQLY2YTKHMLQ"><br></p>
+<li><b style="color:rgb(46, 204, 113)">Collect : </b> <br>Collect real-time data from hundreds of assets—including legacy, proprietary, remote, mobile, and IIoT devices. The PI System connects you to your data, no matter the location or format.</li>
+</ul>
+<!-- ```
+Collect
+``` -->
 
 ### Installing
 
