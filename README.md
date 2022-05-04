@@ -62,15 +62,19 @@ This project I assumed you had to set up Kepware and SQL express was organized i
 
 The PI system enables digital transformation through trusted, high-quality operations data. Collect, enhance, and deliver data in real time in  any location. [How the PI System works ? ](#PIsystem) 
 
-### How the PI System works ?
-<p align="center">
- <img  width=300px height=350px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Architecture-Kepware.PNG?token=GHSAT0AAAAAABTUUZXDPOL7S52PMAFOQLY2YTKHMLQ"><br></p>
-<li><b style="color:rgb(46, 204, 113)">Collect : </b> <br>Collect real-time data from hundreds of assets—including legacy, proprietary, remote, mobile, and IIoT devices. The PI System connects you to your data, no matter the location or format.</li>
-</ul>
-<!-- ```
-Collect
-``` -->
 
+<p align="center">
+ <img  width=300px height=200px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/PI%20system%203%20layer.png"><br></p>
+<li><b style="color:rgb(46, 204, 113)">Collect</b>
+  <pre>  PI Interface Configuration Utility  </pre>
+Collect real-time data from hundreds of assets—including legacy, proprietary, remote, mobile, and IIoT devices. The PI System connects you to your data, no matter the location or format.</li>
+</ul><br>
+
+<li><b style="color:rgb(46, 204, 113)">Manage Enhance -> PI Server  </b><br>Get immediate access to high-fidelity historical,real-time and predictive data to keep critical operations running and business insights coming </li>
+</ul><br>
+
+<li><b style="color:rgb(46, 204, 113)">Visualize and act -> PI Server  </b><br>Get immediate access to high-fidelity historical,real-time and predictive data to keep critical operations running and business insights coming </li>
+</ul>
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
