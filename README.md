@@ -66,11 +66,11 @@ The PI system enables digital transformation through trusted, high-quality opera
 <p align="center">
  <img  width=300px height=200px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/PI%20system%203%20layer.png"><br></p>
 <li><b style="color:rgb(46, 204, 113)">Collect</b>
-  <pre>  PI Interface Configuration Utility  </pre>
+  <pre><img  width=30px height=25px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/pi%20interface.png">  PI Interface Configuration Utility </pre>
 Collect real-time data from hundreds of assets—including legacy, proprietary, remote, mobile, and IIoT devices. The PI System connects you to your data, no matter the location or format.</li>
 </ul><br>
 
-<li><b style="color:rgb(46, 204, 113)">Manage Enhance -> PI Server  </b><br>Get immediate access to high-fidelity historical,real-time and predictive data to keep critical operations running and business insights coming </li>
+<li><b style="color:rgb(46, 204, 113)">Manage Enhance </b>  <pre><img  width=30px height=25px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/pi%20interface.png">  PI Interface Configuration Utility </pre><br>Get immediate access to high-fidelity historical,real-time and predictive data to keep critical operations running and business insights coming </li>
 </ul><br>
 
 <li><b style="color:rgb(46, 204, 113)">Visualize and act -> PI Server  </b><br>Get immediate access to high-fidelity historical,real-time and predictive data to keep critical operations running and business insights coming </li>
