@@ -65,16 +65,22 @@ The PI system enables digital transformation through trusted, high-quality opera
 
 <p align="center">
  <img  width=300px height=200px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/PI%20system%203%20layer.png"><br></p>
+ <ul>
 <li><b style="color:rgb(46, 204, 113)">Collect</b>
-  <pre><img  width=30px height=25px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/pi%20interface.png">  PI Interface Configuration Utility </pre>
+  <pre> o PI Interface Configuration Utility <img  width=30px height=25px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/pi%20interface.png"></pre>
 Collect real-time data from hundreds of assets—including legacy, proprietary, remote, mobile, and IIoT devices. The PI System connects you to your data, no matter the location or format.</li>
 </ul><br>
-
-<li><b style="color:rgb(46, 204, 113)">Manage Enhance </b>  <pre><img  width=30px height=25px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/pi%20interface.png">  PI Interface Configuration Utility </pre><br>Get immediate access to high-fidelity historical,real-time and predictive data to keep critical operations running and business insights coming </li>
+<ul>
+<li><b style="color:rgb(46, 204, 113)">Manage Enhance </b>
+<pre> o PI System Management Tools <img  width=30px height=25px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/pi%20system.png"> <br> o PI system Explorer         <img  width=30px height=25px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/pi%20explorer.png"></pre><br>Get immediate access to high-fidelity historical,real-time and predictive data to keep critical operations running and business insights coming </li>
 </ul><br>
 
-<li><b style="color:rgb(46, 204, 113)">Visualize and act -> PI Server  </b><br>Get immediate access to high-fidelity historical,real-time and predictive data to keep critical operations running and business insights coming </li>
+<ul>
+<li><b style="color:rgb(46, 204, 113)">Visualize and act</b>
+  <pre> o PI Vision  <img  width=30px height=25px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/pi%20vision.png"></pre>
+Easily create your own custom reports and views, so you can monitor processes and troubleshoot on the spot. Quickly drill down from high-level summaries to see issues in an individual asset. Compare downtime events and batch datasets to identify patterns and replicate best practices.</li>
 </ul>
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
