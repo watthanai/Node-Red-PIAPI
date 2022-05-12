@@ -20,13 +20,11 @@
 
 - [Data Source](#Data_Source)
 - [Setup PI System](#PIsetup)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
+- [Running PI system](#RunningtestsPI)
+- [Setup Node-Red System](#NodeRedsetup)
+- [Running Node-Red ](#RunningNodeRed)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [Reference Doc.](#ReferencDoc)
 
 ## 🧐 Data Source <a name = "Data_Source"></a>
 This project I assumed you had to set up Kepware and SQL express was organized in your company So I will focus at data preparation.
@@ -69,7 +67,7 @@ The PI system enables digital transformation through trusted, high-quality opera
 <li><b style="color:rgb(46, 204, 113)">Collect</b>
   <pre> o PI Interface Configuration Utility <img  width=30px height=25px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/pi%20interface.png"></pre>
 Collect real-time data from hundreds of assets—including legacy, proprietary, remote, mobile, and IIoT devices. The PI System connects you to your data, no matter the location or format.</li>
-<ul><li><a href="">Loading OPC & SQL Module</a></li></ul>
+<ul><li><a href="">Loading OPC & SQL Driver</a></li></ul>
 <ul><li><a href="">SQL Module</a></li></ul>
 
 </ul>
@@ -104,7 +102,7 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-## 🔧 Running the tests <a name = "tests"></a>
+## 🔧 Running the tests PI System<a name = "RunningtestsPI"></a>
 
 Explain how to run the automated tests for this system.
 
