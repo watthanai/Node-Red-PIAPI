@@ -41,7 +41,7 @@ This project I assumed you had to set up Kepware and SQL express was organized i
   </a>
   <ul><li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/PLC-Simen.md">PLC Siemens to Kepware </a> </li>
   <li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/PLC-Mitsubishi.md">PLC Mitsubishi to Kepware</a></li>
-  <li><a href="">OPC to Kepware</a></li>
+  <li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/OPC-Kepware.md">OPC to Kepware</a></li>
   </ul>
   <b><br>Data Logger</b>
   <p>After you have done configure kepserver. May be you want to have an application that logs data from an OPC server to any ODBC-compliant database </p> 
