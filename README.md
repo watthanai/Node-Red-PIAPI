@@ -49,7 +49,7 @@ This project I assumed you had to set up Kepware and SQL express was organized i
   <p align="center">
  <img  width=400px height=350px src="https://www.kepware.com/getmedia/9c8c0143-202f-4937-a2b0-bbda1590215c/datalogger"><br></p>
  <b><br>Configure Dataloger</b> 
-   <ul><li><a href="">Open port SQL Workstaion </a> </li>
+   <ul><li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/SQL/Port-SQL.md">Open port SQL Workstaion </a> </li>
   <li><a href="">Config Module logger</a></li>
   </ul><br>
 
