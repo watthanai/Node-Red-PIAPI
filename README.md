@@ -19,12 +19,12 @@
 ## 📝 Table of Contents
 
 - [Data Source](#Data_Source)
-- [Setup PI System](#PIsetup)
-- [Running PI system](#RunningtestsPI)
-- [Setup Node-Red System](#NodeRedsetup)
-- [Running Node-Red ](#RunningNodeRed)
+- [PI System](#PIsetup)
+- [Node-Red](#NodeRedsetup)
+- [Started Project](#startproject)
+- [Building Tool](#built_Tool)
 - [Authors](#authors)
-- [Reference Doc.](#ReferencDoc)
+- [Acknowledgements](#Acknowledgement)
 
 ## 🧐 Data Source <a name = "Data_Source"></a>
 This project I assumed you had to set up Kepware and SQL express was organized in your company So I will focus at data preparation.
@@ -50,11 +50,9 @@ This project I assumed you had to set up Kepware and SQL express was organized i
  <img  width=400px height=350px src="https://www.kepware.com/getmedia/9c8c0143-202f-4937-a2b0-bbda1590215c/datalogger"><br></p>
  <b><br>Configure Dataloger</b> 
    <ul><li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/SQL/Port-SQL.md">Open port SQL Workstaion </a> </li>
-  <li><a href="">OPC Data Logger</a></li>
+  <li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/SQL/DataLogger.md">OPC Data Logger</a></li>
   </ul><br>
 
-<li><b style="color:rgb(46, 204, 113)">SQL : </b> <br>This Paragraph describes how to configure a PLC with Ethernet module and other OPC on the Local Ethernet network.</li>
-</ul>
 
 ## 🏁 SETUP PI SYSTEM <a name = "PIsetup"></a>
 
@@ -67,8 +65,8 @@ The PI system enables digital transformation through trusted, high-quality opera
 <li><b style="color:rgb(46, 204, 113)">Collect</b>
   <pre> o PI Interface Configuration Utility <img  width=30px height=25px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/pi%20interface.png"></pre>
 Collect real-time data from hundreds of assets—including legacy, proprietary, remote, mobile, and IIoT devices. The PI System connects you to your data, no matter the location or format.</li>
-<ul><li><a href="">Loading OPC & SQL Driver</a></li></ul>
-<ul><li><a href="">SQL Module</a></li></ul>
+<ul><li><a href="">Loading OPC & SQL Driver</a></li></ul><br>
+
 
 </ul>
 
@@ -84,35 +82,16 @@ Collect real-time data from hundreds of assets—including legacy, proprietary, 
 Easily create your own custom reports and views, so you can monitor processes and troubleshoot on the spot. Quickly drill down from high-level summaries to see issues in an individual asset. Compare downtime events and batch datasets to identify patterns and replicate best practices.</li>
 </ul><br>
 
-## 🔧 Running the tests PI System<a name = "RunningtestsPI"></a>
 
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
+## 🎈 Node-Red<a name="NodeRedsetup"></a>
 
 Add notes about how to use the system.
 
-## 🚀 Deployment <a name = "deployment"></a>
+## 🚀 Started Project<a name = "startproject"></a>
 
 Add additional notes about how to deploy this on a live system.
 
-## ⛏️ Built Using <a name = "built_using"></a>
+## ⛏️ Built Tool <a name = "built_Tool"></a>
 
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
@@ -126,7 +105,4 @@ Add additional notes about how to deploy this on a live system.
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
 - References
