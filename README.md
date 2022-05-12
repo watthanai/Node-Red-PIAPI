@@ -90,11 +90,16 @@ Add notes about how to use the system.
 
 ## 🚀 Started Project<a name = "startproject"></a>
 
-Add additional notes about how to deploy this on a live system.
+### Prerequisites 
+Before we will start project you have to know & need Tools that appered paragrph <b> SET UP PI SYSTEM</b>
+<ul>
+<li>PI Interface Configuration Utility</li>
+<li>PI System Management Tools</li>
+<li>PI system Explorer</li>
+<li>OSIsoft Web API server that is connected to your PI Server </li>
+</ul>
 
-## 🚀 Monitoring Dashboard<a name = "Dashboard"></a>
 
-Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Tool <a name = "built_Tool"></a>
 
