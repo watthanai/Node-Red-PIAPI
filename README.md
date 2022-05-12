@@ -19,9 +19,10 @@
 ## 📝 Table of Contents
 
 - [Data Source](#Data_Source)
-- [PI System](#PIsetup)
-- [Node-Red](#NodeRedsetup)
+- [Setup PI System](#PIsetup)
+- [Setup Node-Red](#NodeRedsetup)
 - [Started Project](#startproject)
+- [Monitoring Dashboard](#Dashboard)
 - [Building Tool](#built_Tool)
 - [Authors](#authors)
 - [Acknowledgements](#Acknowledgement)
@@ -91,6 +92,10 @@ Add notes about how to use the system.
 
 Add additional notes about how to deploy this on a live system.
 
+## 🚀 Monitoring Dashboard<a name = "Dashboard"></a>
+
+Add additional notes about how to deploy this on a live system.
+
 ## ⛏️ Built Tool <a name = "built_Tool"></a>
 
 - [MongoDB](https://www.mongodb.com/) - Database
@@ -100,9 +105,8 @@ Add additional notes about how to deploy this on a live system.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@Watthani](https://github.com/watthanai) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - References
