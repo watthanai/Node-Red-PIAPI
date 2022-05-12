@@ -105,7 +105,7 @@ PI System Managemnet Tool
 
 <li>
 <a href="">OPC to PI Server</a></li></ul>
-<img  width=300px height=200px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/PI%20system%203%20layer.png">
+<img  width=500px height=200px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/OPC%20to%20PI.png">
 <ul>
 <li><a href="">SQL to PI Server</a></li></ul>
 <br>
