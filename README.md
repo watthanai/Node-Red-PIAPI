@@ -99,6 +99,22 @@ Before we will start project you have to know & need Tools that appered paragrph
 <li>OSIsoft Web API server that is connected to your PI Server </li>
 </ul>
 
+### Implement PI system
+PI System Managemnet Tool
+<ul>
+
+<li>
+<a href="">OPC to PI Server</a></li></ul>
+<img  width=300px height=200px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/PI%20system%203%20layer.png">
+<ul>
+<li><a href="">SQL to PI Server</a></li></ul>
+<br>
+PI system Explorer<br>
+<p align="center">
+ <img  width=300px height=200px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/PI%20system%203%20layer.png"><br></p>
+After you create PI tag in PI Server .it will generate PI web api .you can follow data depend on path element.
+
+
 
 
 ## ⛏️ Built Tool <a name = "built_Tool"></a>
