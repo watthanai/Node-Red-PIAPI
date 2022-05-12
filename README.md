@@ -39,8 +39,8 @@ This project I assumed you had to set up Kepware and SQL express was organized i
  <b><br>Configure kepserver</b>
   <a target="_blank" href="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/kepware/Connect%20PLC%20Siemens%20to%20Kepware/Slide1.PNG">
   </a>
-  <ul><li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/PLC-Simen.md">PLC Siemens to Kepware </a> </li>
-  <li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/PLC-Mitsubishi.md">PLC Mitsubishi to Kepware</a></li>
+  <ul><li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/PLC-Simen.md">PLC Siemens to Kepware </a> </li>
+  <li><a href="https://github.com/watthanai/Node-Red-PIAPI/blob/master/Data%20Source/PLC-Mitsubishi.md">PLC Mitsubishi to Kepware</a></li>
   <li><a href="">OPC to Kepware</a></li>
   </ul>
   <b><br>Data Logger</b>
@@ -83,24 +83,6 @@ Collect real-time data from hundreds of assets—including legacy, proprietary, 
   <pre> o PI Vision  <img  width=30px height=25px src="https://raw.githubusercontent.com/watthanai/Node-Red-PIAPI/master/images/PI_System/pi%20vision.png"></pre>
 Easily create your own custom reports and views, so you can monitor processes and troubleshoot on the spot. Quickly drill down from high-level summaries to see issues in an individual asset. Compare downtime events and batch datasets to identify patterns and replicate best practices.</li>
 </ul><br>
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
 
 ## 🔧 Running the tests PI System<a name = "RunningtestsPI"></a>
 
